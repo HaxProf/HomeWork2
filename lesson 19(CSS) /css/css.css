@@ -1,0 +1,9 @@
+@import url(null.css);
+.text {
+  text-indent: 25px;
+  color: gray;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
